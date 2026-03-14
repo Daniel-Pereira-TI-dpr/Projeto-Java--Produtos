@@ -12,8 +12,6 @@ Sistema simples para cadastro e gerenciamento de produtos, desenvolvido em Java,
 
 ✏️ Atualizar informações de um produto
 
-❌ Remover produtos do sistema
-
 🛠️ Tecnologias utilizadas
 
 ☕ Java
